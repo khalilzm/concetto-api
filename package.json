@@ -1,0 +1,19 @@
+{
+  "name": "concetto-api",
+  "version": "1.0.0",
+  "description": "for concetto extension developer",
+  "main": "concetto.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhaim",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+	"typescript": "^5.2.2",
+    "ts-loader": "^9.2.6"
+  }
+}
